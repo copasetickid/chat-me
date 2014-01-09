@@ -1,0 +1,10 @@
+{
+  "name": "chat-me",
+  "version" : "1.0.0",
+  "description" : "Simple chat server",
+  "dependencies" : { 
+    "socket.io" : "~0.9.6",
+    "mime" : "~1.2.7"
+  }
+}
+
